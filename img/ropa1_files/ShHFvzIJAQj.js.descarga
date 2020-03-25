@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["YUXeC"]); }
+
+__d("CometPageAdminOffersRoot.entrypoint",["JSResource","buildCometPageAdminRoute.entrypoint"],(function(a,b,c,d,e,f){"use strict";e.exports=b("buildCometPageAdminRoute.entrypoint")(b("JSResource")("PagesCometAdminOffersRoot.react").__setRef("CometPageAdminOffersRoot.entrypoint"),function(a){a=a.routeProps;var b=a.hasPreviousOffer;a=a.pageID;return{extraProps:{hasPreviousOffer:b,pageID:a}}})}),null);

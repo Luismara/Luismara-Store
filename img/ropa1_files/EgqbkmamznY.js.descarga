@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["Cy\/am"]); }
+
+__d("CometVideoHomeFeedRoot.entrypoint",["CometVideoHomeFeedEntryPointVariables","JSResource","buildCometVideoHomeRoute.entrypoint","CometVideoHomeFeedRootQuery$Parameters"],(function(a,b,c,d,e,f){"use strict";e.exports=b("buildCometVideoHomeRoute.entrypoint")(b("JSResource")("CometVideoHomeFeedRoot.react").__setRef("CometVideoHomeFeedRoot.entrypoint"),function(a){return{queries:{feedRootQueryReference:{options:{fetchPolicy:"network-only"},parameters:b("CometVideoHomeFeedRootQuery$Parameters"),variables:b("CometVideoHomeFeedEntryPointVariables")}}}})}),null);

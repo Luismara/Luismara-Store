@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["CK7CN"]); }
+
+__d("CometPageAdminVideosRoot.entrypoint",["JSResource","WebPixelRatio","buildCometPageAdminRoute.entrypoint","CometSinglePageVideosRootQuery$Parameters"],(function(a,b,c,d,e,f){"use strict";e.exports=b("buildCometPageAdminRoute.entrypoint")(b("JSResource")("CometSinglePageVideosRoot.react").__setRef("CometPageAdminVideosRoot.entrypoint"),function(a){a=a.routeProps.pageID;var c={actorID:a},d=b("WebPixelRatio").get()*4;return{queries:{singlePageVideosRootQueryReference:{environmentProviderOptions:c,parameters:b("CometSinglePageVideosRootQuery$Parameters"),variables:{pageID:a,scale:d}}}}})}),null);

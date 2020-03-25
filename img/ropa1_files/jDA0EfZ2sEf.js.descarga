@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["jI4p6"]); }
+
+__d("PagesPagePhotoClickFalcoEvent",["FalcoLoggerInternal"],(function(a,b,c,d,e,f){"use strict";a=b("FalcoLoggerInternal").create("pages_page_photo_click");e.exports=a}),null);

@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["DKkAo"]); }
+
+__d("PagesPageCoverImpressionFalcoEvent",["FalcoLoggerInternal"],(function(a,b,c,d,e,f){"use strict";a=b("FalcoLoggerInternal").create("pages_page_cover_impression");e.exports=a}),null);

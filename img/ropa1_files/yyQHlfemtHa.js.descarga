@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["4wVPT"]); }
+
+__d("CometPageCoverVideoPlayer.react",["React","VideoPlayerDefaultControls.react","VideoPlayerPlaybackControl.react","VideoPlayerRelay.react","VideoPlayerSurface.react"],(function(a,b,c,d,e,f){"use strict";var g=b("React");function a(a){var c=a.displayEditButton,d=a.displayPlaybackControl,e=a.shouldLoop;a=a.video;return g.jsx(b("VideoPlayerRelay.react"),{autoplayComponentEnabled:!0,initialForceHD:!0,loopingBehavior:e===!0?"infinite":"disabled",portalingEnabled:!1,subOrigin:"pages_cover",video:a,children:g.jsx(b("VideoPlayerSurface.react"),{children:c===!0||d===!0?g.jsx(b("VideoPlayerPlaybackControl.react"),{}):g.jsx(b("VideoPlayerDefaultControls.react"),{})})})}e.exports=a}),null);

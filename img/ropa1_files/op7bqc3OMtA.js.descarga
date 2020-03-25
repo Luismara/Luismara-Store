@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["ytlGd"]); }
+
+__d("LWICometPostCreationRoot.entrypoint",["JSResource","LWICometPostCreationRootContentQuery$Parameters"],(function(a,b,c,d,e,f){"use strict";a={getPreloadProps:function(a){var c=a.routeParams.so!=null?String(a.routeParams.so):null;c={client_spec_override:c,page_id:String(a.routeParams.page_id),product:"BOOSTED_POST",target_id:String(a.routeParams.target_id)};return{queries:{creationRootQueryReference:{parameters:b("LWICometPostCreationRootContentQuery$Parameters"),variables:{input:c}}}}},root:b("JSResource")("LWICometPostCreationRoot.react").__setRef("LWICometPostCreationRoot.entrypoint")};e.exports=a}),null);

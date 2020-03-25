@@ -1,0 +1,4 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["QbEC2"]); }
+
+__d("LWICometProductPickerRootQuery$Parameters",[],(function(a,b,c,d,e,f){"use strict";a={kind:"PreloadableConcreteRequest",params:{operationKind:"query",name:"LWICometProductPickerRootQuery",id:"3024651377559789",text:null,metadata:{relayPreloadable:!0}}};e.exports=a}),null);
+__d("LWICometProductPickerRoot.entrypoint",["JSResource","LWICometProductPickerRootQuery$Parameters","WebPixelRatio"],(function(a,b,c,d,e,f){"use strict";var g=5;a={getPreloadProps:function(a){return{queries:{productPickerRootQueryReference:{parameters:b("LWICometProductPickerRootQuery$Parameters"),variables:{count:g,pageID:String(a.routeParams.page_id),scale:b("WebPixelRatio").get()}}}}},root:b("JSResource")("LWICometProductPickerRoot.react").__setRef("LWICometProductPickerRoot.entrypoint")};e.exports=a}),null);

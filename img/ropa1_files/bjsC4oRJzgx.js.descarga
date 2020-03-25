@@ -1,0 +1,4 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["PNHXv"]); }
+
+__d("PagesCometAdminPhotosCreateAlbumQuery$Parameters",[],(function(a,b,c,d,e,f){"use strict";a={kind:"PreloadableConcreteRequest",params:{operationKind:"query",name:"PagesCometAdminPhotosCreateAlbumQuery",id:"2430018560454499",text:null,metadata:{relayPreloadable:!0}}};e.exports=a}),null);
+__d("PagesCometAdminPhotosCreateAlbumRoot.entrypoint",["JSResource","PagesCometAdminPhotosCreateAlbumQuery$Parameters"],(function(a,b,c,d,e,f){"use strict";a={getPreloadProps:function(a){a=a.routeProps.pageID;var c={actorID:a};return{queries:{pageAdminPhotosCreateAlbumReference:{environmentProviderOptions:c,parameters:b("PagesCometAdminPhotosCreateAlbumQuery$Parameters"),variables:{pageID:a}}}}},root:b("JSResource")("PagesCometAdminPhotosCreateAlbumRoot.react").__setRef("PagesCometAdminPhotosCreateAlbumRoot.entrypoint")};e.exports=a}),null);

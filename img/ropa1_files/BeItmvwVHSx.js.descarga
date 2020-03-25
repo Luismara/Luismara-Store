@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["oY\/19"]); }
+
+__d("CometPageAdminSettingsFullPageEntryPointCompatRoot.entrypoint",["JSResource","buildCometPageAdminSettingsRoute.entrypoint"],(function(a,b,c,d,e,f){"use strict";e.exports=b("buildCometPageAdminSettingsRoute.entrypoint")(b("JSResource")("CometFullPageEntryPointCompatRoot.react").__setRef("CometPageAdminSettingsFullPageEntryPointCompatRoot.entrypoint"),function(a){a=a.routeProps.maintainKey;return{extraProps:{routeProps:{maintainKey:a}}}})}),null);

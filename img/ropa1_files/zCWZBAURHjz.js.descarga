@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["3kvBc"]); }
+
+__d("CometPageAdminSelfViewRoot.entrypoint",["JSResource","buildCometPageAdminRoute.entrypoint","CometSinglePageHomeRoot.entrypoint"],(function(a,b,c,d,e,f){"use strict";e.exports=b("buildCometPageAdminRoute.entrypoint")(b("JSResource")("PagesCometAdminSelfViewRoot.react").__setRef("CometPageAdminSelfViewRoot.entrypoint"),function(a){return{entryPoints:{pageSelfViewEntryPoint:{entryPoint:b("CometSinglePageHomeRoot.entrypoint"),entryPointParams:a}},extraProps:a}})}),null);

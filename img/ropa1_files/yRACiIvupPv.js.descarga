@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["BRKWY"]); }
+
+__d("TetraOverlappingFacepile.react",["React","TetraOverlappingFacepileUnstyled.react","stylex"],(function(a,b,c,d,e,f){"use strict";var g=b("React");function a(a){return g.jsx("div",{className:"discj3wi dati1w0a d1544ag0",children:g.jsx(b("TetraOverlappingFacepileUnstyled.react"),babelHelpers["extends"]({},a))})}e.exports=a}),null);

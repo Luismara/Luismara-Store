@@ -1,0 +1,4 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["9Yb\/u"]); }
+
+__d("EventCometCreateRootQuery$Parameters",[],(function(a,b,c,d,e,f){"use strict";a={kind:"PreloadableConcreteRequest",params:{operationKind:"query",name:"EventCometCreateRootQuery",id:"3604459216262608",text:null,metadata:{relayPreloadable:!0}}};e.exports=a}),null);
+__d("EventCometCreateRoot.entrypoint",["JSResource","WebPixelRatio","EventCometCreateRootQuery$Parameters"],(function(a,b,c,d,e,f){"use strict";var g=7778;a={getPreloadProps:function(a){a=a.routeParams;return{queries:{eventCreateRootQueryReference:{parameters:b("EventCometCreateRootQuery$Parameters"),variables:{groupID:a.group_id,nuxID:g,pageID:a.page_id,scale:b("WebPixelRatio").get()}}}}},root:b("JSResource")("EventCometCreateRoot.react").__setRef("EventCometCreateRoot.entrypoint")};e.exports=a}),null);

@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["CqcuN"]); }
+
+__d("CometCrossGroupFeedRoot.Loading.react",["CometContentArea.react","CometFeedStoryGlimmer.react","React","stylex"],(function(a,b,c,d,e,f){"use strict";var g=b("React");function a(){return g.jsx(b("CometContentArea.react"),{verticalAlign:"middle",children:g.jsx("div",{className:"oh7imozk h3gjbzrl dht4glve sej5wr8e",children:g.jsx(b("CometFeedStoryGlimmer.react"),{})})})}e.exports=a}),null);

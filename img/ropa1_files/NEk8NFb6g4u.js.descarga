@@ -1,0 +1,4 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["urtiF"]); }
+
+__d("PagesCometAdminEditingDialogQuery$Parameters",[],(function(a,b,c,d,e,f){"use strict";a={kind:"PreloadableConcreteRequest",params:{operationKind:"query",name:"PagesCometAdminEditingDialogQuery",id:"2959164077459804",text:null,metadata:{relayPreloadable:!0}}};e.exports=a}),null);
+__d("PagesCometAdminEditingDialog.entrypoint",["JSResource","PagesCometAdminEditingDialogQuery$Parameters"],(function(a,b,c,d,e,f){"use strict";a={getPreloadProps:function(a){var c=a.routeProps,d=c.endPoint,e=c.entryPoint;c=c.pageID;return{extraProps:a,queries:{myQueryReference:{parameters:b("PagesCometAdminEditingDialogQuery$Parameters"),variables:{endPoint:d,entryPoint:e,pageID:c}}}}},root:b("JSResource")("PagesCometAdminEditingDialog.react").__setRef("PagesCometAdminEditingDialog.entrypoint")};e.exports=a}),null);

@@ -1,0 +1,4 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["Upl4S"]); }
+
+__d("AdsLWICoBBoostedPostPickerDialogQuery$Parameters",[],(function(a,b,c,d,e,f){"use strict";a={kind:"PreloadableConcreteRequest",params:{operationKind:"query",name:"AdsLWICoBBoostedPostPickerDialogQuery",id:"3427962213944444",text:null,metadata:{relayPreloadable:!0}}};e.exports=a}),null);
+__d("AdsLWICoBBoostedPostPickerDialog.entrypoint",["JSResource","WebPixelRatio","AdsLWICoBBoostedPostPickerDialogQuery$Parameters"],(function(a,b,c,d,e,f){"use strict";a={getPreloadProps:function(a){return{queries:{boostedPostPickerQueryRef:{parameters:b("AdsLWICoBBoostedPostPickerDialogQuery$Parameters"),variables:{count:5,pageID:a.pageID,scale:b("WebPixelRatio").get()}}}}},root:b("JSResource")("AdsLWICoBBoostedPostPickerDialog.react").__setRef("AdsLWICoBBoostedPostPickerDialog.entrypoint")};e.exports=a}),null);

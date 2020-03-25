@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["qTuRp"]); }
+
+__d("CometSinglePageVideosRootQuery$Parameters",[],(function(a,b,c,d,e,f){"use strict";a={kind:"PreloadableConcreteRequest",params:{operationKind:"query",name:"CometSinglePageVideosRootQuery",id:"3161098933942197",text:null,metadata:{relayPreloadable:!0}}};e.exports=a}),null);

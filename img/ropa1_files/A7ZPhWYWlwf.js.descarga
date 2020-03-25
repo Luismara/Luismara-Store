@@ -1,0 +1,4 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["aBRDd"]); }
+
+__d("PageCometLaunchpointLeftNavMenuRootQuery$Parameters",[],(function(a,b,c,d,e,f){"use strict";a={kind:"PreloadableConcreteRequest",params:{operationKind:"query",name:"PageCometLaunchpointLeftNavMenuRootQuery",id:"2603858406391652",text:null,metadata:{relayPreloadable:!0}}};e.exports=a}),null);
+__d("buildPageCometLaunchpointRoute.entrypoint",["JSResource","createContentAreaCompoundEntryPointBuilder","PageCometLaunchpointLeftNavMenuRootQuery$Parameters"],(function(a,b,c,d,e,f){"use strict";e.exports=b("createContentAreaCompoundEntryPointBuilder")(b("JSResource")("PageCometLaunchpointEntryPointRoot.react").__setRef("buildPageCometLaunchpointRoute.entrypoint"),function(a){return{leftNavContainerQueryReference:{parameters:b("PageCometLaunchpointLeftNavMenuRootQuery$Parameters"),variables:{}}}})}),null);

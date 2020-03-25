@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["aXhc5"]); }
+
+__d("CometPageAdminPhotosAlbumListRoot.entrypoint",["JSResource","buildCometPageAdminRoute.entrypoint","CometSinglePagePhotosAlbumListViewRootQuery$Parameters"],(function(a,b,c,d,e,f){"use strict";e.exports=b("buildCometPageAdminRoute.entrypoint")(b("JSResource")("CometSinglePagePhotosAlbumListViewRoot.react").__setRef("CometPageAdminPhotosAlbumListRoot.entrypoint"),function(a){a=a.routeProps.pageID;var c={actorID:a};return{queries:{singlePagePhotosAlbumListViewRootQueryReference:{environmentProviderOptions:c,parameters:b("CometSinglePagePhotosAlbumListViewRootQuery$Parameters"),variables:{pageID:a}}}}})}),null);
